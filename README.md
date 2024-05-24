@@ -1,4 +1,4 @@
-# delete-files-PS
+# Delete-files-PS
 * Script to delete especific extensions files
 
 # Run the Script
